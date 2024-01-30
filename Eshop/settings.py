@@ -27,7 +27,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['172.232.146.231','urcommunity.tech']
+ALLOWED_HOSTS = ['172.232.146.231','www.urcommunity.tech']
 
 
 # Application definition
